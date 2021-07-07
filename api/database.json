@@ -1,0 +1,44 @@
+{
+  "letters": [
+    {
+      "author": "Albert Camus (albert.camus@existentialdread.com)",
+      "letter": "You come into the world alone. \n\nYou fill out a few web forms. \n\nAnd then you die, also alone.        ",
+      "topic": [
+        "Friendly"
+      ],
+      "recipient": "Mark Twain (mark.twain@seersuckerenthusiast.com)",
+      "date": "Tue Jul 06 2021 19:25:57 GMT-0500 (Central Daylight Time)",
+      "id": 1
+    },
+    {
+      "author": "Maya Angelou (maya@angelou.com)",
+      "letter": " I know you were a product of the culture and time into which you were born. But still... I can't help but think you probably genuinely had some deeply problematic ideas about race.        ",
+      "topic": [
+        "Business"
+      ],
+      "recipient": "Mark Twain (mark.twain@seersuckerenthusiast.com)",
+      "date": "Tue Jul 06 2021 19:27:31 GMT-0500 (Central Daylight Time)",
+      "id": 2
+    },
+    {
+      "author": "Mark Twain (mark.twain@seersuckerenthusiast.com)",
+      "letter": "Mother died today. Or maybe yesterday, I don't know   ",
+      "topic": [
+        "Condolences"
+      ],
+      "recipient": "Albert Camus (albert.camus@existentialdread.com)",
+      "date": "Tue Jul 06 2021 19:28:30 GMT-0500 (Central Daylight Time)",
+      "id": 3
+    },
+    {
+      "author": "Mark Twain (mark.twain@seersuckerenthusiast.com)",
+      "letter": " The functions that they wanted.        ",
+      "topic": [
+        "Business"
+      ],
+      "recipient": "Maya Angelou (maya@angelou.com)",
+      "date": "Tue Jul 06 2021 20:51:51 GMT-0500 (Central Daylight Time)",
+      "id": 4
+    }
+  ]
+}

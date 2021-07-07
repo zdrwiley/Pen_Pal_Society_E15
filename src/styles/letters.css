@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    background-color: lightskyblue;
+    padding: 1rem;
+    margin: 1rem;
+    margin-left: 0rem;
+}
+
+button.topic_tag {
+    text-indent: 0px;
+    text-align: center;
+    background-color: peachpuff;
+    margin: 0em;
+    padding: 1px 6px;
+    border-radius: 10px;
+  }
